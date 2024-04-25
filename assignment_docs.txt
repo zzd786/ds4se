@@ -1,0 +1,12 @@
+1.pip3 install pydriller
+
+2.Enable long file paths in wondows:
+	open registry editor
+	Paste this in the path
+	HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem
+	Open LongPathsEnabled = 1
+3. Enable long file paths in Git:
+	open powershell with admin rights
+	git config --system core.longpaths true
+
+	
