@@ -9,4 +9,4 @@
 	open powershell with admin rights
 	git config --system core.longpaths true
 
-	
+4. In Task 1.1, I have sorted the commit issues accroding to Date in ascending order.
